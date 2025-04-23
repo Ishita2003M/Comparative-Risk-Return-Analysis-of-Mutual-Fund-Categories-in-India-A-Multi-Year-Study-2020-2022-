@@ -1,1 +1,2 @@
 # Comparative-Risk-Return-Analysis-of-Mutual-Fund-Categories-in-India-A-Multi-Year-Study-2020-2022-
+This study aims to assess and compare the performance of various mutual fund categories— Large Cap, Small Cap, Flexi Cap, Sectoral, and Index Funds—over the period from 2020 to 2022. The evaluation is based not only on raw returns but also on critical risk-adjusted performance measures like the Sharpe Ratio and Treynor Ratio. Understanding these metrics is essential for discerning between funds that merely perform well and those that deliver superior returns per unit of risk.
